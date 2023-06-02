@@ -3,7 +3,11 @@ import { useState } from 'react'
 import './App.css'
 import { data } from './data'
 
-import Starter from './tutorial/01-useState/starter/05-useState-gotcha'
+import Starter from './tutorial/03-conditional-rendering/starter/01-multiple-returns-basics'
+// import Starter from './tutorial/02-useEffect/starter/04-fetch-data'
+// import Starter from './tutorial/02-useEffect/starter/03-multiple-effects'
+// import Starter from './tutorial/02-useEffect/starter/02-useEffect-basics'
+// import Starter from './tutorial/01-useState/starter/05-useState-gotcha
 // import Starter from './tutorial/01-useState/starter/04-useState-object'
 // import UseStateBasics from './tutorial/01-useState/starter/02-useState-basics'
 
